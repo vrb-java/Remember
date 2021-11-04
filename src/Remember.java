@@ -107,7 +107,7 @@ public class Remember {
         return day;
     }
 
-    public char choiceMode() {
+    private char choiceMode() {
         char operation;
         boolean faultOperation = true;
         do {
